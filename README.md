@@ -19,6 +19,6 @@ This HoloLens2 product would be used in group activities involving seniors in as
 ![alt text](https://github.com/marcohcanada/Big-Augmented-Reality-Project/blob/main/AssetsMediaPlayerUIIconSetTextures.PNG?raw=true)
 ![alt text](https://github.com/marcohcanada/Big-Augmented-Reality-Project/blob/main/AssetsVideos.PNG?raw=true)
 ## Please Note
-The Unity project contains video files which exceed GitHub's file size limit of 100 MB.
+The Unity project contains video files which exceed GitHub's file size limit of 100 MB. A ZIP file containing the project is linked above.
 ![alt text](https://github.com/marcohcanada/Big-Augmented-Reality-Project/blob/main/PleaseNote.PNG?raw=true)
 
