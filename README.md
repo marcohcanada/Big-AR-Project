@@ -10,6 +10,8 @@ This HoloLens2 product built using Unity 2019 would be used in group activities 
 -	AR painting.
 -	AR sports.
 -	AR house concert.
+## ZIP File
+https://drive.google.com/file/d/1QGMM8PpV-nCvoDvJt0wMjmI0o2a9yDLU/view?usp=sharing
 ## Video Demo
 - Unity Player Mode: https://drive.google.com/file/d/1PBVAzwIduexq5GyhDMStorQx6DHk0s_e/view?usp=sharing
 - Hololens2 Emulator: https://drive.google.com/file/d/1_HwOQPby8Bh_xrZLpHwIBkpkt2KbrtHU/view?usp=sharing
