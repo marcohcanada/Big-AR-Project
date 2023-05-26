@@ -10,3 +10,5 @@ This product would be used in group activities involving seniors in assisted liv
 -	AR painting.
 -	AR sports.
 -	AR house concert.
+## Video Demo
+- Unity Player Mode: https://drive.google.com/file/d/1PBVAzwIduexq5GyhDMStorQx6DHk0s_e/view?usp=sharing
