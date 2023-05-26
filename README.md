@@ -12,7 +12,7 @@ This HoloLens2 product would be used in group activities involving seniors in as
 -	AR house concert.
 ## Video Demo
 - Unity Player Mode: https://drive.google.com/file/d/1PBVAzwIduexq5GyhDMStorQx6DHk0s_e/view?usp=sharing
-- Visual Studio 2019 Hololens2 Emulator: https://drive.google.com/file/d/1_HwOQPby8Bh_xrZLpHwIBkpkt2KbrtHU/view?usp=sharing
+- Hololens2 Emulator: https://drive.google.com/file/d/1_HwOQPby8Bh_xrZLpHwIBkpkt2KbrtHU/view?usp=sharing
 ## Required Assets
 ![alt text](https://github.com/marcohcanada/Big-Augmented-Reality-Project/blob/main/Assets.PNG?raw=true)
 ![alt text](https://github.com/marcohcanada/Big-Augmented-Reality-Project/blob/main/AssetsMaterials.PNG?raw=true)
